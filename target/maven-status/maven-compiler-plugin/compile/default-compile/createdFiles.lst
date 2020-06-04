@@ -1,0 +1,5 @@
+com\weather\WeatherService.class
+com\weather\WeatherResponse.class
+com\weather\WeatherAppApplication.class
+com\weather\SwaggerConfig.class
+com\weather\WeatherController.class
